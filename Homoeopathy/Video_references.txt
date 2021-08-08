@@ -1,0 +1,23 @@
+$	Debates
+# 	Debate: Is Homeopathy Scientific? (ഹോമിയോപ്പതി ശാസ്ത്രീയമോ?) - Krishna Prasad Vs Dr. Felix James
+	link: https://www.youtube.com/watch?v=LQraRXl7Jy0&ab_channel=esSENSEGlobal
+
+$	Presentations
+# 	പ്ലാസിബോപതി | Placebopathy - Dr. Arif Hussain
+	link: https://www.youtube.com/watch?v=vERK1wQPaVI&ab_channel=esSENSEGlobal
+	
+# 	കാലഹരണപ്പെട്ട ഹോമിയോപ്പതി | Outdated Homeopathy - Dr. Arif Hussain Theruvath (A Homeopathic Doctor)
+	link: https://www.youtube.com/watch?v=1Lzn5A6zobA&ab_channel=esSENSEGlobal
+	
+# 	ഹോമിയോപ്പതി മാഫിയ | Homeopathy Mafia - Dr. Arif Hussain
+	link: https://www.youtube.com/watch?v=uu9R8CwXues&ab_channel=esSENSEGlobal
+
+# 	ഹോമിയോപ്പതി എന്തുകൊണ്ടു് വിമർശിക്കപ്പെടണം? by Dr. Arif Hussain Theruvathu ഡോ.ആരിഫ് ഹുസൈൻ തെരുവത്ത്
+	link: https://www.youtube.com/watch?v=ea3vwV--Rjs&ab_channel=KeralaYukthivadiSangham
+	
+# 	എന്തുകൊണ്ടാണ് Arsenicum Album 30C എതിർക്കപ്പെടുന്നത് ? Dr. Arif Hussain (മുൻ ഹോമിയോ ഡോക്ടർ )
+	link: https://www.youtube.com/watch?v=gzvPt-Y1L6Q&ab_channel=Channel13.8
+	
+$	Interviews
+# 	ഹോമിയോ: പത്തനംതിട്ട പഠനം - ഒരു ബോംബ് കഥ | Dr.Arif Hussian | Manuja Mythri | Homeopathy | Interview
+	link: https://www.youtube.com/watch?v=Mc_M9bi8IeA&ab_channel=neuronz

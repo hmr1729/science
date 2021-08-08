@@ -1,4 +1,4 @@
-Debates
+$	Debates
 #  	Yoga Debate|സംവാദം: യോഗ ഉത്തമവ്യായാമമോ? 'Is Yoga an ideal exercise?'' Ravichandran C Vs Yogi Shivan
 	link: https://www.youtube.com/watch?v=Z3Q3g9mz6ZY&ab_channel=esSENSEGlobal
 	
@@ -28,7 +28,7 @@ Debates
 	
 # 	
 	
-Presentations
+$	Presentations
 #  	യോഗ - സത്യവും മിഥ്യയും | Yoga - Myth and Reality (Malayalam) Dr C Viswanathan
 	link: https://www.youtube.com/watch?v=FFfDX3m11ZU&ab_channel=KeralaFreethinkersForum-kftf
 	
